@@ -8,7 +8,11 @@ let empty_context = [];;
 
 let get_binding ctx name =
   try List.assoc name ctx with
-  Not_found -> raise (No_binding name);;
+  | Not_found -> raise (No_binding name);;
+    
 
-let rec add_binding ctx name v = ... ;;
+
+let add_binding ctx name value =
+  ((name, value) :: ctx);;
+
 
