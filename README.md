@@ -1,4 +1,4 @@
 # PAPO
 Paradigmas de la programacion
-# a
-![](https://media.tenor.com/ak9w9WbmlXIAAAAd/patricio-bailando.gif)
+
+![](https://github.com/FerLS/PAPO/blob/main/patricio-bailando.gif)
