@@ -1,4 +1,4 @@
-# PAPO
-Paradigmas de la programacion
+# PAPO - UDC
 
-![](https://github.com/FerLS/PAPO/blob/main/patricio-bailando.gif)
+**Asignatura de Paradigmas de la programacion**
+
